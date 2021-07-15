@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table tr td{
+    width: fit-content;
+    padding: 5px;
+}
+.input-content{
+    margin: 10px;
+    padding: 100px;
+    border: 2px solid black;
+}
+.output-content{
+    margin: 10px;
+    padding: 100px;
+    border: 2px solid black;
+    display: none;
+}
+
